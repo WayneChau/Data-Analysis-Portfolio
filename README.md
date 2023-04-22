@@ -1,14 +1,16 @@
-## Data-Analysis-Portfolio
+# Organization
 
         Brampton Hockey Inc. is the largest non-profit hockey organization representing a single community in Ontario. As a major provider of hockey services for the entire city of Brampton, the company represents an institution of hockey for over 2000 families.
 
-        This repository is a Data Analysis Portfolio which contains social media performance metrics collected and transformed in MS Excel and its respective PowerBI analysis that analyzes their social media presence weekly and wholisticly during their 10 week social media campaign. The social media performance metrics of 23 posts have been collected across Instagram and Facebook as of March 30, 2023 with 25 posts collected from Twitter as of April 5, 2023. 
+# Repository Description
+
+        This repository is a Data Analysis Portfolio which contains social media performance metrics collected and transformed in MS Excel and its respective PowerBI analysis that analyzes their social media presence weekly and wholisticly during their 10 week social media campaign that has been operated by our team of 10 University of Waterloo student bodies. The social media performance metrics of 23 posts have been collected across Instagram and Facebook as of March 30, 2023 with 25 posts collected from Twitter as of April 5, 2023. 
 
 # Metric Description
 
         Number refers to the number of posts. Accounts Engaged is the number of likes and comments in relation to the number of account followers. Time Periods are as follows; Morning: 5 AM to 12 PM, Afternoon: 12 PM to 5 PM, Evening: 5 PM to 9 PM, Night: 9PM to 5AM. Twitter Impressions is the number of times tweets were seen on twitter. Engagement rate for both Instagram and Twitter is the total number of engagement in relation to the number of views. Profile Attraction rate is the number of profile activity in relation to the number of accounts reached.
         
-# Analysis on Social Media Performance
+# Data Analysis / Recommendations
 
         The number of accounts engaged and profile visits on Instagram increased over the three months as our posting schedule became consistent, enlisting the need to develop a strategic positioning schedule moving forward. In relation to the number of accounts reached, there is room for improvement with accounts engaged and profile activity. To maximize in both areas, we recommend creating a posting paired with a call to action that resonates with our audience. Similarly, the number of likes has shown to be the highest engagement method compared to comments, shares, and saves. Comments provide valuable insight into our audience feedback and thoughts whereas shares and saves indicate content that others may be interested in. While a high number of likes shows the effectiveness of our audience appeal, we recommend creating postings that enlist a call for higher level of engagement for deeper analytical research and interacting with our audience in the comment section to further develop our community relations. 
 
